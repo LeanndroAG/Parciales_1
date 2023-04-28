@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1541401338 source:c:\users\leandro-fabi\desktop\aguero_leandro_1f\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alquiler.h"
+	"inputs.h"
+	"juego.h"
+	"cliente.h"
+	"control.h"
+
+1541401338 "
+
+1541400627 source:c:\users\leandro-fabi\desktop\aguero_leandro_1f\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"cliente.h"
+
+1541400133 source:c:\users\leandro-fabi\desktop\aguero_leandro_1f\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+
+1541400133 
+
+1541401338 source:c:\users\leandro-fabi\desktop\aguero_leandro_1f\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juego.h"
+
+1541401338 
+
+1541401379 source:c:\users\leandro-fabi\desktop\aguero_leandro_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alquiler.h"
+	"juego.h"
+	"cliente.h"
+	"inputs.h"
+	"control.h"
+
+1541401338 c:\users\leandro-fabi\desktop\aguero_leandro_1f\alquiler.h
+	"juego.h"
+	"cliente.h"
+
+1541401338 c:\users\leandro-fabi\desktop\aguero_leandro_1f\juego.h
+
+1541400634 c:\users\leandro-fabi\desktop\aguero_leandro_1f\cliente.h
+
+1541400133 c:\users\leandro-fabi\desktop\aguero_leandro_1f\inputs.h
+
+1541401379 source:c:\users\leandro-fabi\desktop\aguero_leandro_1f\control.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"inputs.h"
+	"control.h"
+	"juego.h"
+	"cliente.h"
+	"alquiler.h"
+
+1541401379 h"
+
+1541401379 c:\users\leandro-fabi\desktop\aguero_leandro_1f\control.h
+	"cliente.h"
+	"juego.h"
+	"alquiler.h"
+
+1541401338 source:/media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alquiler.h"
+	"inputs.h"
+	"juego.h"
+	"cliente.h"
+	"control.h"
+
+1541401338 /media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/alquiler.h
+	"juego.h"
+	"cliente.h"
+
+1541401338 /media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/juego.h
+
+1541400634 /media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/cliente.h
+
+1541400133 /media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/inputs.h
+
+1541401379 /media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/control.h
+	"cliente.h"
+	"juego.h"
+	"alquiler.h"
+
+1541400627 source:/media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"cliente.h"
+
+1541401379 source:/media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/control.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"inputs.h"
+	"control.h"
+	"juego.h"
+	"cliente.h"
+	"alquiler.h"
+
+1541400133 source:/media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+
+1541401338 source:/media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juego.h"
+
+1541401379 source:/media/leandro/A226BDD926BDAEA3/Programacion/Parciales/Aguero_Leandro_1F_PP/main.c
+	<stdio.h>
+	<stdlib.h>
+	"alquiler.h"
+	"juego.h"
+	"cliente.h"
+	"inputs.h"
+	"control.h"
+
