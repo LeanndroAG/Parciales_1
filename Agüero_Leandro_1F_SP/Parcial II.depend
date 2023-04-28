@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1543279757 source:d:\agüero_leandro_1f_sp\parcial ii\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+	<conio.h>
+
+1542809208 d:\agüero_leandro_1f_sp\parcial ii\parser.h
+	"LinkedList.h"
+
+1542809208 d:\agüero_leandro_1f_sp\parcial ii\linkedlist.h
+
+1543280257 d:\agüero_leandro_1f_sp\parcial ii\controller.h
+
+1543277501 d:\agüero_leandro_1f_sp\parcial ii\employee.h
+	"LinkedList.h"
+
+1542809208 d:\agüero_leandro_1f_sp\parcial ii\utn.h
+
+1543278793 source:d:\agüero_leandro_1f_sp\parcial ii\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1543280182 source:d:\agüero_leandro_1f_sp\parcial ii\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1543279600 source:d:\agüero_leandro_1f_sp\parcial ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"utn.h"
+
+1543276914 source:d:\agüero_leandro_1f_sp\parcial ii\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1543276486 source:d:\agüero_leandro_1f_sp\parcial ii\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1543279602 source:c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"utn.h"
+
+1542809208 c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\linkedlist.h
+
+1543280258 c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\controller.h
+
+1542809208 c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\parser.h
+	"LinkedList.h"
+
+1542809208 c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\utn.h
+
+1543279758 source:c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+	<conio.h>
+
+1543277502 c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\employee.h
+	"LinkedList.h"
+
+1543278794 source:c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1543280536 source:c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1543276916 source:c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1543276488 source:c:\users\leandro-fabi\desktop\parciales\aguero_leandro_1f_sp\parcial ii\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
